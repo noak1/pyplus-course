@@ -1,2 +1,2 @@
 # pyplus-course
-my course homework answers for the pyplus course from kirk byers
+my course answers to the homework for the pyplus course from kirk byers
